@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "ext-json": "*",
-        "league/commonmark": "^1.1.0",
+        "league/commonmark": "^2.0.2",
         "spatie/commonmark-highlighter": "^2.1"
     },
     "require-dev": {
